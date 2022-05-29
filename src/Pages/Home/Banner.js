@@ -3,9 +3,6 @@ import slide from '../../Assests/Slide/slide .jpg';
 import slide1 from '../../Assests/Slide/slide1.jpg';
 import slide2 from '../../Assests/Slide/slide2.jpg';
 import slide3 from '../../Assests/Slide/slide3.jpg';
-// import { FaShippingFast } from 'react-icons/fa';
-// import { RiSafe2Fill } from 'react-icons/ri';
-// import { MdLocalOffer, MdOutlineSupportAgent } from 'react-icons/md';
 import { Link } from 'react-router-dom';
 
 const Banner = () => {
@@ -20,7 +17,7 @@ const Banner = () => {
                                 <div>
                                     <h1 className="text-5xl font-bold">This Is The Most Beautiful Design In Our Shop</h1>
                                     <p className="py-6">We provide best qualitis products. An ever, We ar most trusted in this world Provident cupiditate voluptatem et in. exercitationem quasi.</p>
-                                    <Link to='/products' className="btn btn-primary">Here Me</Link>
+                                    <Link to='/products' className="btn btn-primary">Get Started</Link>
                                 </div>
                             </div>
                         </div>
