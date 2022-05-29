@@ -20,7 +20,7 @@ const Banner = () => {
                                 <div>
                                     <h1 className="text-5xl font-bold">This Is The Most Beautiful Design In Our Shop</h1>
                                     <p className="py-6">We provide best qualitis products. An ever, We ar most trusted in this world Provident cupiditate voluptatem et in. exercitationem quasi.</p>
-                                    <Link to='/products' className="btn btn-primary">Get Started</Link>
+                                    <Link to='/products' className="btn btn-primary">see here</Link>
                                 </div>
                             </div>
                         </div>
