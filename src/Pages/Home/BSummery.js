@@ -9,7 +9,7 @@ const BSummery = () => {
         <div className='m-6 z-0'>
             <h3 className='text-4xl text-center text-orange-500 font-bold mb-8'><span className=''>Business Summary</span></h3>
             <div className="card w-full h-full bg-black shadow-xl image-full">
-                {/* <figure><img src={bg} alt="" /></figure> */}
+               
                 <div className="card-body">
                     <div className="stats bg-orange-400 text-black">
 
