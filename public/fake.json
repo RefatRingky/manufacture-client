@@ -1,0 +1,74 @@
+[
+    {
+      "id": "628b32eaf768ac09d9f41a78",
+      "img": "https://media.istockphoto.com/photos/new-air-conditioning-compressor-picture-id1164591187?s=2048x2048",
+      "name": "Compressor",
+      "unitPrice": "$300",
+      "stock": "100",
+      "minOrder": 20,
+      "description": "This the best quality compressure"
+    },
+    {
+      "id": "628b32ea971bc9bf6c233cb0",
+      "img": "https://media.istockphoto.com/photos/air-conditioner-condenser-coil-with-tools-being-repaired-picture-id1048574092?s=2048x2048",
+      "name": "Condenser coils",
+      "unitPrice": "$200",
+      "stock": "100",
+      "minOrder": 10,
+      "description": "This is very powerful condenser"
+    },
+    {
+      "id": "628b32ea44e0ba13fa227a03",
+      "img": "https://media.istockphoto.com/photos/new-air-conditioning-compressor-picture-id1164591187?s=2048x2048",
+      "name": "Roberts Allen",
+      "unitSrice": "$1,071.44",
+      "stock": "$2,600.17",
+      "minOrder": 30,
+      "description": "This is very powerful condenser"
+    },
+    {
+      "id": "628b32eaa26c61fe6b24df4d",
+      "img": "https://media.istockphoto.com/photos/new-air-conditioning-compressor-picture-id1164591187?s=2048x2048",
+      "name": "Curtis Hardy",
+      "unitPrice": "$1,045.62",
+      "stock": "$2,807.55",
+      "minOrder": 34,
+      "description": "CHThis is very powerful condenser"
+    },
+    {
+      "id": "628b32eae5b23dde2f7ded63",
+      "img": "https://media.istockphoto.com/photos/new-air-conditioning-compressor-picture-id1164591187?s=2048x2048",
+      "name": "Rosella Castillo",
+      "unitPrice": "$1,132.93",
+      "stock": "$2,913.11",
+      "minOrder": 37,
+      "description": "ZEThis is very powerful condenser"
+    },
+    {
+      "id": "628b32ea58f6d6f01bcbb47b",
+      "img": "https://media.istockphoto.com/photos/new-air-conditioning-compressor-picture-id1164591187?s=2048x2048",
+      "name": "Laurie Cantu",
+      "unitPrice": "$3,297.72",
+      "stock": "$2,360.79",
+      "minOrder": 29,
+      "description": "This is very powerful condenser"
+    },
+    {
+      "id": "628b32eaaef55344c2a8ab30",
+      "img": "https://media.istockphoto.com/photos/new-air-conditioning-compressor-picture-id1164591187?s=2048x2048",
+      "name": "Audra Pitts",
+      "unitPrice": "$3,624.66",
+      "stock": "$2,673.10",
+      "minOrder": 37,
+      "description": "This is very powerful condenser"
+    },
+    {
+      "id": "628b32eaadfe37fa87475eca",
+      "img": "https://media.istockphoto.com/photos/new-air-conditioning-compressor-picture-id1164591187?s=2048x2048",
+      "name": "Landry Gilmore",
+      "unitPrice": "$1,716.92",
+      "stock": "$3,838.88",
+      "minOrder": 33,
+      "description": "This is very powerful condenser"
+    }
+  ]
