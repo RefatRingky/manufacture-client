@@ -7,17 +7,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [GO TO LIVE WEBSITE](https://assignmennt-twelve.web.app/).
 
 ## Some of my project features 
-* You can see item in item page.
-* You can manage your item.
-* You can edit your item.
-* You can delete your item.
-* You can create your account.
-* You can add your own products.
-* You can see your added products.
+* You can see different product in product page.
+* You can manage your product.
+* You can get a purchase page and order from this.
+* For order anything you must follow the stock and minimum order quantity.
+* You can see a dashboad.
+* You can see a admin panel.
+* You can see my profile,my order,make admin etc.
 
 
 ### Project Description
-* This is a cars diller website. You can buy or sell Dress. you can login with facebook, Google or email password. Can you can see all inventory. You can manage your inventory , like edit delete etc.
+* This is a manufactureing website. You can collect manufacturing thing. you can login with facebook, Google or email password. Can you can see all product. You can manage your product , like edit delete etc.
 
 #### What technology I have used for building this website.
 * React.js
