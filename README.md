@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Project Description
 * This is a manufactureing website. You can collect manufacturing thing. you can login with facebook, Google or email password. Can you can see all product. You can manage your product , like edit delete etc.You can get a dashboad here.where you can see my profile,my order,add review,make admin.You can get admin panel admin can make admin to any user.
 
-#### What technology I have used for building this website.
+#### This is the technology I use in this project .
 * React.js
 * JSX
 * heroicon
