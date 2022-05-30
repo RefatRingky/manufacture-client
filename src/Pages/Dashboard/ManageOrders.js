@@ -8,7 +8,7 @@ import DeleteModal1 from './DeleteModal1'
 const ManageOrders = () => {
 
     const [modalClose, setModalClose] = useState(null);
-    const { data: orders, isLoading, error, refetch } = useQuery('orders', () => fetch('http://localhost:5000/allorders').then(res => res.json()))
+    const { data: orders, isLoading, error, refetch } = useQuery('orders', () => fetch('https://frozen-inlet-79702.herokuapp.com/allorders').then(res => res.json()))
 
     if (isLoading) {
         return <Loading />

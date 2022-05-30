@@ -16,7 +16,7 @@ const AddProduct = () => {
 
         const product = { name, unitPrice, stock, description, minOrder, image };
 
-        fetch('http://localhost:5000/product', {
+        fetch('https://frozen-inlet-79702.herokuapp.com/product', {
             method: 'POST',
             headers: {
                 authorization: `Bearer ${localStorage.getItem('accessToken')}`,

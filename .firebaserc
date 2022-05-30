@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "tool-house-web-app"
-  }
+    "default": "tool-house-web-app",
+    "build": "assignmennt-twelve"
+  },
+  "targets": {}
 }

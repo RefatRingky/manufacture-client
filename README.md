@@ -1,7 +1,36 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Rinrav's Refrigarator House
+ 
 
+[GO TO LIVE WEBSITE](https://assignmennt-twelve.web.app/).
+
+## Some of my project features 
+* You can see item in item page.
+* You can manage your item.
+* You can edit your item.
+* You can delete your item.
+* You can create your account.
+* You can add your own products.
+* You can see your added products.
+
+
+### Project Description
+* This is a cars diller website. You can buy or sell Dress. you can login with facebook, Google or email password. Can you can see all inventory. You can manage your inventory , like edit delete etc.
+
+#### What technology I have used for building this website.
+* React.js
+* JSX
+* heroicon
+* node js 
+* Bootstrap
+* mongodb
+* toast
+* Express
+* donenv
+* firebase
+* Heroku
 ## Available Scripts
 
 In the project directory, you can run:
